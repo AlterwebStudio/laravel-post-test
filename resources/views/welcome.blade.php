@@ -53,7 +53,7 @@
                     {{ $post->title }}
                     @endif
                 </div>
-                <div class="links">
+                <div class="links mb-2">
                     {{ $post->code }}
                 </div>
                 @endforeach
